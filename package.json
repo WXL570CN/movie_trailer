@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/WXL570CN/movie_trailer#readme",
   "dependencies": {
-    "ejs": "^3.0.1"
+    "ejs": "^3.0.1",
+    "pug": "^2.0.4"
   }
 }
